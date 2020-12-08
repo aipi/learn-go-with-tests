@@ -1,4 +1,4 @@
-package inteiros
+package main
 
 import "testing"
 import "fmt"

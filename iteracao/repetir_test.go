@@ -1,4 +1,4 @@
-package iteracao
+package main
 
 import "testing"
 
